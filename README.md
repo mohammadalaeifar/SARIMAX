@@ -4,7 +4,7 @@ This repository contains code for time series forecasting using two popular mode
 # What's included
 The repository includes the following files:
 
-# A Step-by-Step Explanation of SARIMAX and LSTM Models for Time Series Forecasting.md: A markdown file that provides a detailed explanation of how to use the SARIMAX and LSTM models to perform time series forecasting.
+A Step-by-Step Explanation of SARIMAX and LSTM Models for Time Series Forecasting.md: A markdown file that provides a detailed explanation of how to use the SARIMAX and LSTM models to perform time series forecasting.
 SARIMAX Comparison with LSTM.ipynb: A Jupyter notebook that provides a comparison of the SARIMAX and LSTM models for time series forecasting.
 SARIMAX Comparison with LSTM(adds a new Dense layer).ipynb: A Jupyter notebook that provides a comparison of the SARIMAX and LSTM models for time series forecasting, with the addition of a new Dense layer in the LSTM model.
 
