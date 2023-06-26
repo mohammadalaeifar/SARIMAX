@@ -11,6 +11,8 @@ A Jupyter notebook that provides a comparison of the SARIMAX and LSTM models for
 A Jupyter notebook that provides a comparison of the SARIMAX and LSTM models for time series forecasting, with the addition of a new Dense layer in the LSTM model.
 # 3-A Step-by-Step Explanation of SARIMAX and LSTM Models for Time Series Forecasting.md:
 A markdown file that provides a detailed explanation of how to use the SARIMAX and LSTM models to perform time series forecasting.
+# 4-Addition of an extra Dense layer.md:
+Explain the changes and output 
 
 # How to use
 To use the code in this repository, follow these steps:
