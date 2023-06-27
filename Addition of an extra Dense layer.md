@@ -12,7 +12,7 @@ the input features and the output target. However, it is important to note that 
 where the model performs well on the training data but poorly on unseen data. 
 Therefore, it is important to experiment with different architectures and hyperparameters to find the optimal model for the specific 
 time series dataset being analyzed.                                                                                                                    
- However, it is important to note that the improvement in the output is not guaranteed, and adding too many layers or neurons can lead to overfitting, 
+However, it is important to note that the improvement in the output is not guaranteed, and adding too many layers or neurons can lead to overfitting, 
 where the model performs well on the training data but poorly on unseen data. Therefore, it is important to experiment with different architectures and
 hyperparameters to find the optimal model for the specific time series dataset being analyzed.
 
